@@ -10,7 +10,7 @@ canvas 绘制星星动图效果（慕课网练习）
 3. 多个星星的绘制：构造函数（类）的应用
 
 ## 预览
-预览地址：https://kuro-p.github.io/canvasStar/
+预览地址：https://kuro-p.github.io/canvas-star/
 
 ![](https://github.com/Kuro-P/canvasStar/blob/master/images/preview.gif "效果图") 
 
